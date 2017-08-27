@@ -300,3 +300,22 @@ Requires admin: No
 
 Links:
 http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
+
+
+
+## 25. forfiles
+
+C:\Windows\System32\forfiles.exe
+forfiles /p c:\windows\system32 /m notepad.exe /c %ProgramData:~0,1%%ProgramData:~9,2%
+forfiles /p c:\windows\system32 /m notepad.exe /c %PSModulePath:~30,10%
+
+Requires admin: No
+
+
+
+## 26. SyncAppvPublishingServer
+
+
+Requires admin: No
+Links:
+http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
