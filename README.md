@@ -301,9 +301,16 @@ Requires admin: No
 Links:
 http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
 
+25. fsi.exe
+
+fsi.exe c:\folder\d.fscript
+
+Requires admin: No
+
+Links: https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1 https://twitter.com/NickTyrer/status/904273264385589248 https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/fsharp-interactive/
 
 
-## 25. forfiles
+## 26. forfiles
 
 C:\Windows\System32\forfiles.exe
 forfiles /p c:\windows\system32 /m notepad.exe /c %ProgramData:~0,1%%ProgramData:~9,2%
@@ -313,7 +320,7 @@ Requires admin: No
 
 
 
-## 26. SyncAppvPublishingServer
+## 27. SyncAppvPublishingServer
 
 
 Requires admin: No
