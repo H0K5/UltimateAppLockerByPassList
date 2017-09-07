@@ -301,7 +301,7 @@ Requires admin: No
 Links:
 http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
 
-25. fsi.exe
+## 25. fsi.exe
 
 fsi.exe c:\folder\d.fscript
 
@@ -326,3 +326,9 @@ Requires admin: No
 Requires admin: No
 Links:
 http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
+
+
+## 28 odbcconf.exe 
+
+odbcconf.exe then regsvr32
+https://twitter.com/gN3mes1s/status/903267561688707072
