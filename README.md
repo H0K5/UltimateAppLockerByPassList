@@ -166,7 +166,7 @@ Requires admin: No
 
 Links:  
 https://evi1cg.me/archives/AppLocker_Bypass_Techniques.html#menu_index_3
-
+https://twitter.com/KyleHanslovan/status/905189665120149506
 
 
 ## 13. PresentationHost.exe
