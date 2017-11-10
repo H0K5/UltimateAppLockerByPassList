@@ -4,8 +4,11 @@ This README file contains a complete list of all known bypasses.
 Since AppLocker can be configured in different ways it makes sense to have master list of bypasses. 
 This README.MD will be the master and will be updated with known and possible AppLocker bypasses.
 
-Binaries that does others stuff : 
+1. Binaries that does others stuff : 
 https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt
+
+2. Living of the land : 
+http://www.hexacorn.com/blog/category/anti-forensics/page/2/
 
 **There are verified lists for EXE and DLL bypasses.**
 These bypasses are based on the default rules created with AppLocker. 
