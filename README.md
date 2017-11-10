@@ -4,6 +4,9 @@ This README file contains a complete list of all known bypasses.
 Since AppLocker can be configured in different ways it makes sense to have master list of bypasses. 
 This README.MD will be the master and will be updated with known and possible AppLocker bypasses.
 
+Binaries that does others stuff : 
+https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt
+
 **There are verified lists for EXE and DLL bypasses.**
 These bypasses are based on the default rules created with AppLocker. 
 
@@ -332,3 +335,9 @@ http://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
 
 odbcconf.exe then regsvr32
 https://twitter.com/gN3mes1s/status/903267561688707072
+
+
+## 29 ImagingDevices 
+
+C:\Program Files\Windows Photo Viewer\ImagingDevices.exe/InstallWiaDevice
+http://www.hexacorn.com/blog/2017/10/20/imagingdevices-yet-another-os-native-side-loading-program/
