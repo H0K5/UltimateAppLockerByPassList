@@ -344,3 +344,7 @@ https://twitter.com/gN3mes1s/status/903267561688707072
 
 C:\Program Files\Windows Photo Viewer\ImagingDevices.exe/InstallWiaDevice
 http://www.hexacorn.com/blog/2017/10/20/imagingdevices-yet-another-os-native-side-loading-program/
+
+## 30 CL_LoadAssembly
+      
+      CL_LoadAssembly : https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/
